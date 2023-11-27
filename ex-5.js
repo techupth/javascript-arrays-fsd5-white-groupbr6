@@ -1,4 +1,4 @@
-const employees = [
+const employees5 = [
   {
     name: "James",
     age: 40,
@@ -22,3 +22,5 @@ const employees = [
 ];
 
 // Start coding here
+delete employees5[3];
+console.log(employees5);
